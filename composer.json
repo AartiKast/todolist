@@ -1,0 +1,14 @@
+{
+    "name": "aartikast/todolist",
+    "description": "laravel demo package",
+    "type": "library",
+    "license":"MIT",
+    "authors": [
+        {
+            "name": "Aarti Kast",
+            "email": "aartikast23@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
